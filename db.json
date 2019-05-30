@@ -10,28 +10,28 @@
          "title":"Cheesecake",
          "category":"Cakes",
          "status":"ON HOLD",
-         "description":"Delicious vegan chocolate cake",
+         "description":"Delicious vegan chocolate cake"
       },
       {  
          "id":3,
          "title":"Chocolate Cake",
          "category":"Cakes",
          "status":"PROCESSED",
-         "description":"Homemade cheesecake with fresh berries and mint",
+         "description":"Homemade cheesecake with fresh berries and mint"
       },
       {  
          "id":19,
          "title":"Cremeschnitte",
          "category":"Desserts",
          "status":"ON HOLD",
-         "description":"Cheesecake with chocolate cookies and Cream biscuits",
+         "description":"Cheesecake with chocolate cookies and Cream biscuits"
       },
       {  
          "id":2,
          "title":"Fat Rascal",
          "category":"Cupcakes",
          "status":"PROCESSED",
-         "description":"Cheesecake with chocolate cookies and Cream biscuits",
+         "description":"Cheesecake with chocolate cookies and Cream biscuits"
  
       },
       {  
@@ -39,35 +39,35 @@
          "title":"Financier",
          "category":"Cakes",
          "status":"ON HOLD",
-         "description":"White chocolate strawberry yogurt cake decorated with fresh fruits and chocolate",
+         "description":"White chocolate strawberry yogurt cake decorated with fresh fruits and chocolate"
       },
       {  
          "id":17,
          "title":"Fruitcake",
          "category":"Cakes",
          "status":"PROCESSED",
-         "description":"Chocolate cake with berries",
+         "description":"Chocolate cake with berries"
       },
       {  
          "id":10,
          "title":"Genoise",
          "category":"Cupcakes",
          "status":"PROCESSED",
-         "description":"Christmas fruit cake, pudding on top",
+         "description":"Christmas fruit cake, pudding on top"
       },
       {  
          "id":11,
          "title":"Gingerbread",
          "category":"Cakes",
          "status":"ON HOLD",
-         "description":"Wedding cake decorated with donuts and wild berries",
+         "description":"Wedding cake decorated with donuts and wild berries"
       },
       {  
          "id":4,
          "title":"Goose Breast",
          "category":"Cakes",
          "status":"PROCESSED",
-         "description":"Chocolate cake with berries",
+         "description":"Chocolate cake with berries"
       }
    ]
 }
