@@ -40,34 +40,6 @@
          "category":"Cakes",
          "status":"ON HOLD",
          "description":"White chocolate strawberry yogurt cake decorated with fresh fruits and chocolate"
-      },
-      {  
-         "id":17,
-         "title":"Fruitcake",
-         "category":"Cakes",
-         "status":"PROCESSED",
-         "description":"Chocolate cake with berries"
-      },
-      {  
-         "id":10,
-         "title":"Genoise",
-         "category":"Cupcakes",
-         "status":"PROCESSED",
-         "description":"Christmas fruit cake, pudding on top"
-      },
-      {  
-         "id":11,
-         "title":"Gingerbread",
-         "category":"Cakes",
-         "status":"ON HOLD",
-         "description":"Wedding cake decorated with donuts and wild berries"
-      },
-      {  
-         "id":4,
-         "title":"Goose Breast",
-         "category":"Cakes",
-         "status":"PROCESSED",
-         "description":"Chocolate cake with berries"
       }
    ]
 }
